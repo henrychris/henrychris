@@ -1,4 +1,4 @@
-### Hi 👋 I'm Henry Ihenacho.
+### Hi, I'm Henry Ihenacho 👋.
 
 - ⚡ I started programming with text-based games back when BASIC was a thing.
 - ⚡ I pivoted away from code to try a career in Consulting, but I couldn't stay away long.
