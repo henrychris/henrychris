@@ -1,5 +1,7 @@
 ### Hi, I'm Henry Ihenacho 👋.
 
+[![wakatime](https://wakatime.com/badge/user/018cc5c1-eeac-432d-8476-e35ce53bb234.svg)](https://wakatime.com/@018cc5c1-eeac-432d-8476-e35ce53bb234)
+
 - ⚡ I started programming by making text-based games with BASIC to impress my friends.
 - ⚡ I pivoted away from code to try a career in Consulting, but I couldn't stay away long.
 - ⚡ I'm a backend engineer mainly using C# and TypeScript. I plan to move to full-stack.
