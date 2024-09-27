@@ -7,7 +7,7 @@
 - ⚡ I'm a backend engineer mainly using C# and TypeScript. I plan to move to full-stack.
 - 🔭 I'm working on a web app to help writers keep their work in one place, instead of hopping between various services.
 - 🏢 I'm looking for a role as a backend engineer- ideally using C#! A startup with a small, tight-knit team would be excellent!
-- 📫 Send me an email at [henryihenacho@outlook.com](mailto:henryihenacho@outlook.com) or DM me on Twitter [@hiddenhenry](https://twitter.com/hiddenhenry).
+- 📫 Send me an email at [henrychris2003@gmail.com](mailto:henrychris2003@gmail.com) or DM me on Twitter [@hiddenhenry](https://twitter.com/hiddenhenry).
 
 <!--
 **henrychris/henrychris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
