@@ -4,10 +4,10 @@
 
 - ⚡ I started programming by making text-based games with BASIC to impress my friends.
 - ⚡ I pivoted away from code to try a career in Consulting, but I couldn't stay away long.
-- ⚡ I'm a backend engineer mainly using C# and TypeScript. I plan to move to full-stack.
-- 🔭 I'm working on a web app to help writers keep their work in one place, instead of hopping between various services.
-- 🏢 I'm looking for a role as a backend engineer- ideally using C#! A startup with a small, tight-knit team would be excellent!
-- 📫 Send me an email at [henrychris2003@gmail.com](mailto:henrychris2003@gmail.com) or DM me on Twitter [@hiddenhenry](https://twitter.com/hiddenhenry).
+- ⚡ I'm a backend engineer mainly using C# and TypeScript. I use Svelte when build fullstack applications.
+- 🔭 I'm working on QSet + more, tools to improve the football experience in my country.
+- 🏢 I'm looking for a role as a backend engineer- C# or TypeScript are fine. A startup with a small, tight-knit team would be excellent!
+- 📫 Send me an email at [henrychris2003@gmail.com](mailto:henrychris2003@gmail.com) or DM me on X [@hiddenhenry](https://x.com/hiddenhenry).
 
 <!--
 **henrychris/henrychris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
