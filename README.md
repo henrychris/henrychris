@@ -4,7 +4,7 @@
 
 - ⚡ I started programming by making text-based games with BASIC to impress my friends.
 - ⚡ I pivoted away from code to try a career in Consulting, but I couldn't stay away long.
-- ⚡ I'm a backend engineer mainly using C# and TypeScript. I use Svelte when build fullstack applications.
+- ⚡ I'm a backend engineer mainly using C# and TypeScript. I use Svelte when building fullstack applications.
 - 🔭 I'm working on [QSet](https://qset.qballxi.com) and other tools to improve the football experience in my country.
 - 🏢 I'm looking for a role as a backend engineer- C# or TypeScript are fine. A startup with a small, tight-knit team would be excellent!
 - 📫 Send me an email at [henrychris2003@gmail.com](mailto:henrychris2003@gmail.com) or DM me on X [@hiddenhenry](https://x.com/hiddenhenry).
